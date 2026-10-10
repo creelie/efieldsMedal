@@ -11,6 +11,14 @@ authors:
 version: 1.0.0
 date-released: 2026-10-10
 license: MIT
+doi: 10.5281/zenodo.23285911
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23285911
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23285912
+    description: "Version 1.0.0"
 repository-code: "https://github.com/creelie/efieldsMedal"
 keywords:
   - Morley's theorem

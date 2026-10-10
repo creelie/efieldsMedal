@@ -53,7 +53,9 @@ scripts/run_all.sh                     runs all of the above; exit status 0 mean
 
 ## Citation
 
-See `CITATION.cff`. The Zenodo record of each release carries the paper and the checks.
+See `CITATION.cff`. Zenodo archives each release with the paper and the checks: concept DOI
+[10.5281/zenodo.23285911](https://doi.org/10.5281/zenodo.23285911) (all versions), version 1.0.0
+[10.5281/zenodo.23285912](https://doi.org/10.5281/zenodo.23285912).
 
 ## License
 
