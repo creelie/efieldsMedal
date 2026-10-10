@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Regular Morley tetrahedra from p-secting planes"
+type: software
+authors:
+  - family-names: Bhattacharjee
+    given-names: Deep
+    orcid: "https://orcid.org/0000-0003-0466-750X"
+    affiliation: "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India"
+    email: d.bhattacharjee@erl-forschung.de
+version: 1.0.0
+date-released: 2026-10-10
+license: MIT
+repository-code: "https://github.com/creelie/efieldsMedal"
+keywords:
+  - Morley's theorem
+  - Morley tetrahedron
+  - p-secting plane
+  - isosceles tetrahedron
+  - disphenoid
+  - dihedral angle
+abstract: >-
+  Tran replaced the trisecting planes of the Morley construction for a tetrahedron by
+  p-secting planes, with one parameter for each pair of opposite edges, and conjectured that
+  a regular Morley tetrahedron forces a pair of opposite edges whose four cross edges are
+  equal (arXiv:2609.06553, Conjecture 8.6). We show that every isosceles tetrahedron with
+  three different edge lengths is a counterexample: its Morley tetrahedron is regular exactly
+  when one vertex lies on one of four lines through the centre, and every such point occurs.
+  When all three parameters equal 4, only the regular tetrahedron remains.
+references:
+  - type: article
+    title: "The Converse Problem for the Morley Tetrahedron: Counterexamples, Conjectures, and Partial Results"
+    authors:
+      - family-names: Tran
+        given-names: Quang Hung
+    identifiers:
+      - type: other
+        value: "arXiv:2609.06553"
